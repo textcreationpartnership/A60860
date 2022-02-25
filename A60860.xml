@@ -1,0 +1,809 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some seasonable remarks upon the deplorable fall of the Emperour Julian with an epistle of his to the citizens of Bostra / now made English ; by Philaretus Anthropopolita.</title>
+            <author>Philaretus Anthropopolita.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60860</idno>
+            <idno type="STC">Wing S4610</idno>
+            <idno type="STC">ESTC R349</idno>
+            <idno type="EEBO-CITATION">11942219</idno>
+            <idno type="OCLC">ocm 11942219</idno>
+            <idno type="VID">51288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some seasonable remarks upon the deplorable fall of the Emperour Julian with an epistle of his to the citizens of Bostra / now made English ; by Philaretus Anthropopolita.</title>
+                  <author>Philaretus Anthropopolita.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Julian, --  Emperor of Rome, 331-363.</term>
+               <term>Church and state.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51288:1" rendition="simple:additions"/>
+            <p>Some Seaſonable REMARKS Upon the Deplorable Fall OF THE EMPEROUR
+JULIAN, With an EPISTLE of his TO THE CITIZENS of <hi>BOSTRA.</hi>
+            </p>
+            <p>Now made ENGLISH.</p>
+            <p>By <hi>PHILARET<g ref="char:V">Ʋ</g>S ANTHROPOPOLITA.</hi>
+            </p>
+            <q>Caeterum intra Eccleſiam poteſtates neceſſariae non
+eſſent, niſi ut quod non praevalent Sacerdotes efficere per Doctrinae
+Sermonem Poteſtas haec impetret per Diſciplinae terrorem.
+<bibl>
+                  <hi>Major de Geſtis Scotorum, Lib. III. Cap.
+XV.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Gellibrand,</hi> MDCLXXXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51288:2"/>
+            <pb n="1" facs="tcp:51288:2"/>
+            <head>Some Seaſonable REMARKS Upon the deplorable Fall of the
+Emperour JULIAN.</head>
+            <p>HAd not our Holy Religion degene<g ref="char:EOLhyphen"/>rated much from its Native
+good<g ref="char:EOLhyphen"/>neſs, and the integrity in which our Saviour Jeſus and his bleſſed
+Followers left it, it would have been indeed admirable that any once
+inſtructed in it, and much more ſo excellent a perſon as <hi>Julian,</hi>
+ſhould ever deſert it. For men of wild and extravagant tempers, and wholly
+unacquaint<g ref="char:EOLhyphen"/>ed with ſolid Philoſophie and good reaſon, of which our
+preſent Age too much abounds, to be eaſily ſeduc'd by our Modern Revivers
+of the Epicurean folly, is no more ſtrange, than that all Brutal Natures are
+prone to follow their untam'd inclinations: but for a perſon ſe<g ref="char:EOLhyphen"/>verely
+Vertuous, profoundly Speculative, ad<g ref="char:EOLhyphen"/>mirably Learned and Eloquent, and (which
+is yet more) firm and poſitive in the belief of a
+<pb n="2" facs="tcp:51288:3"/> Deity, and future life, to relinquiſh a
+Religion of ſo much genuine Piety, and ſimple inno<g ref="char:EOLhyphen"/>cence as ours is, for
+the fond Superſtitions of Heathens and groſs Idolaters, would be not only
+unaccountable, but above meaſure ſtu<g ref="char:EOLhyphen"/>pendious, did we not find the
+lamentable cau<g ref="char:EOLhyphen"/>ſes of it in the debaucht Chriſtianity of thoſe times; I
+mean the times of the two Emperours, <hi>Conſtantine,</hi> and
+<hi>Conſtantius;</hi> for then firſt our Religion was converted into
+Faction, Policie, and vile Hypocriſie. Till then, Chriſts faith<g ref="char:EOLhyphen"/>ful
+Followers had learnt no other Leſſons than thoſe of Faſting, Praying,
+Mortifying the Fleſh, Patient and humble ſuffering, mutual love and
+forbearance, and living in common; the greateſt being not in Name, but
+reality Servants to the meaneſt. But now having got Ambitious and
+Diſſolute Princes of their Party, inſtead of teaching them their Vertues,
+them<g ref="char:EOLhyphen"/>ſelves learnt their Vices. And now it was the voice was heard from
+Heaven, <hi>Poiſon is fallen into the Church.</hi> But ſince I am fallen
+upon the mention of that hard and ſowre word <hi>Church,</hi> I think it not
+amiſs, nor impertinent to this place, to inſert a brief account of the
+antient Diſcipline us'd among Chriſtians, with<g ref="char:EOLhyphen"/>out which the corruption and
+ambition of <hi>Con<g ref="char:EOLhyphen"/>ſtantines</hi>
+               <pb n="3" facs="tcp:51288:3"/> Clergy, the undoubted ſpawn of Po<g ref="char:EOLhyphen"/>pery, can
+never well be diſcerned. Our bleſ<g ref="char:EOLhyphen"/>ſed Saviour Chriſt then having
+publickly be<g ref="char:EOLhyphen"/>fore <hi>Pontius Pilate</hi> declared his <hi>Kingdom</hi> was
+<hi>not of this world;</hi> and not only ſo, but refuſed to arbitrate
+privately betwixt two Brothers, as being neither <hi>Judge</hi> nor
+<hi>Divider</hi> among them; and having over and above this, ſtrictly
+prohi<g ref="char:EOLhyphen"/>bited any priority among his followers, and that not only by words, but
+by wonderful Ex<g ref="char:EOLhyphen"/>ample, himſelf condeſcending to the moſt ſer<g ref="char:EOLhyphen"/>vile
+Office of waſhing their feet; cannot be ſuppoſed in contradiction to all
+this, to have erected a Spiritual Juriſdiction, or a Corpora<g ref="char:EOLhyphen"/>tion of
+Prieſts, empowr'd Arbitrarily to Enact Laws, and to force all Orders of men,
+if once Chriſtians, to pay humble and implicite Obe<g ref="char:EOLhyphen"/>dience to them; and this
+upon pain of forfeiting their whole right to publick Reputation and Humane
+Converſe, nay Religion, and Eternal Salvation it ſelf.</p>
+            <p>Nor do we anywhere find in Scripture that he ever did <hi>de
+facto</hi> inſtitute any Form of Go<g ref="char:EOLhyphen"/>vernment, either by <hi>Biſhops,
+Presbyters,</hi> or <hi>o<g ref="char:EOLhyphen"/>thers:</hi> but of this ſee the excellent Author of
+<hi>Irenicum,</hi> or <hi>Weaponſalve,</hi> at large. True in<g ref="char:EOLhyphen"/>deed, he once
+ſaid, <hi>Dic Eccleſiae, Tell the Conven<g ref="char:EOLhyphen"/>tion;</hi>
+               <pb n="4" facs="tcp:51288:4"/> but thoſe are not words of Inſtitution, but
+ſuppoſe that <hi>Convention</hi> already in being, as well as the
+<hi>Judgment</hi> and <hi>Council,</hi> mentioned in <hi>Matth.</hi> 5. What
+then ſhall we ſay? Muſt he not of neceſſity be ſuppoſed to have
+directed his Diſciples to Aſſociate, as all other Sects of <hi>Jews</hi>
+did, according to the Form of Politie then in uſe? Yes ſurely, if he was no
+<hi>Judge</hi> nor <hi>Divider,</hi> nor had any <hi>Earthly Kingdom.</hi> Is
+this my ſingle opinion, or doth not the in<g ref="char:EOLhyphen"/>comparable <hi>Grotius</hi> upon
+<hi>Acts</hi> 13. aſſert the ſame in theſe full words: <hi>Totum
+regimen Eccle<g ref="char:EOLhyphen"/>ſiarum Chriſti conformatum eſt ad Exemplar Syna<g ref="char:EOLhyphen"/>gogarum.
+The whole Government of Chriſts Churches was ſhap'd to the Model of the
+Syna<g ref="char:EOLhyphen"/>gogues,</hi> or Moſaick Form of Politie. And certainly, had not this
+been true, our Saviour would never have predicted it as one of the calamities
+his faithful followers ſhould endure for his ſake, to be Expell'd the
+Synagogues, but rather the contrary, to be forc'd to them.</p>
+            <p>What theſe Synagogues were, is ſuperfluous to mention, ſince
+the Learned ſo well know, that moſt of the Judicatures of thoſe antient
+Nations, which we have any account of, were Conſecrated Temples, intended for
+the ma<g ref="char:EOLhyphen"/>nagement of Divine and Humane Affairs joynt<g ref="char:EOLhyphen"/>ly:
+<pb n="5" facs="tcp:51288:4"/> Such were the <hi>Roman Curiae,</hi> the
+<hi>Athenian Areopagus,</hi> the <hi>Delphick Temple,</hi> the
+<hi>Conventions</hi> of the <hi>Hebrews,</hi> and their Temple at
+<hi>Hieruſa<g ref="char:EOLhyphen"/>lem.</hi> But the <hi>Iſraelitick Conventions,</hi> called in
+Greek ſometime <hi>Synagogae,</hi> and ſometime <hi>Eccle<g ref="char:EOLhyphen"/>ſiae,</hi> were
+made up of as many Freemen of their reſpective Burroughs, (for ſo the world
+was an<g ref="char:EOLhyphen"/>tiently model'd) as at the voice of a Cryer, or the winding of a Horn,
+would aſſemble; the Town-Council call'd the <hi>Presbytery</hi> or
+<hi>Senate,</hi> with their Chief, ever preſiding. This prime man, call'd in
+<hi>Greek Archon, Archiſynagogus,</hi> or <hi>Epiſcopus,</hi> for ſo
+(<hi>Judg.</hi> 9.28.) <hi>Zebul</hi> Mayor of <hi>Shechem</hi> is ſtiled by
+the <hi>Septuagint,</hi> was to ſuperintend and manage the
+<hi>Convention,</hi> and the <hi>Councel</hi> called <hi>Presbyters</hi> in
+<hi>Greek,</hi> and in <hi>Latine Seniores,</hi> being men of Age, Gravity, and
+Prudence, were to weigh and examine matters brought before them, and to direct
+and adviſe the Commoners; and in fine, the whole Body or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+was to give Suffrage, and this in all Cauſes whatſoever, whether Sacred or
+Civil, except ſome few, which being very weighty, were reſerved for the
+Cognizance of the <hi>Am<g ref="char:EOLhyphen"/>phictyones</hi> of the Nation, I mean the Seventy two
+wiſe Repreſentatives of the Tribes, called the <hi>Synedrion,</hi> or Grand
+Council, who ſat in
+<pb n="6" facs="tcp:51288:5"/> the Temple or Divine Oracle at
+<hi>Hieruſalem;</hi> the Prieſts then making no diſtinct State from the
+reſt, but Voting in common with others, whatever Figure any of them happened
+to make, either in the <hi>Synedrion,</hi> or the leſſer
+<hi>Conventions;</hi> their peculiar work being not Government, but
+Sacrificing, &amp;c. But that the <hi>Synagogues</hi> were really Civil Courts,
+is plain from thoſe many paſſages in the New Teſta<g ref="char:EOLhyphen"/>ment, that mention
+Trials in them for <hi>Adultery</hi> and other Crimes, as alſo the Apoſtles
+being perſecuted and whipped in them; which cer<g ref="char:EOLhyphen"/>tainly could not have been,
+if they had been meer Oratories like our Churches. But the Jewiſh ſtory of
+<hi>Suſanna</hi> among our Apocryphal Books, puts the controverſie out of
+all queſtion, which very well deſerves the peruſal; for though it be not
+Divinely inſpired, yet it gives us a diſtinct and clear account of the
+manner of Trials in thoſe antient <hi>Conventions.</hi> Now that the
+<hi>Jews,</hi> of which the Chriſtians were a Sect, were ſo tenacious of
+their antient Rights and Form of Politie, that they kept up in all their
+Captivities and Peregrinations, their <hi>Syna<g ref="char:EOLhyphen"/>gogues</hi> or
+<hi>Conventions,</hi> with the ſame zeal they maintain'd their Religion and
+Rituals with, is ſo well known, that I need not here tell it.
+<pb n="7" facs="tcp:51288:5"/> But being now under the Juriſdiction of other
+Nations, and depriv'd of their <hi>Jura Majeſtatis,</hi> and ſo of the
+cognizance of matters Capital by their Laws, they could not puniſh in any
+caſe with Death, unleſs perchance ſome<g ref="char:EOLhyphen"/>times either by a particular
+Licence or Con<g ref="char:EOLhyphen"/>nivance from their Superiours: To ſupply this neceſſary
+defect, they were forc'd to have recourſe to <hi>Expulſion</hi> or
+<hi>Baniſhment</hi> from their Community, with a Form of Imprecation, or
+<hi>Anathema,</hi> whereby the Excommunicated was devoted to Divine Vengeance
+and the fury of the Penal <hi>Daemons;</hi> a Cuſtome common to them with the
+<hi>Athenians</hi> and antient <hi>Romans,</hi> who were wont to back all
+ſuch Laws as they would have to be Sacred and Inviolable, with a dreadful
+Curſe upon ſuch as ſhould preſume to break them, or ſhould break them
+and yet eſcape publick Juſtice. <hi>Sacratae Leges</hi> (ſaith
+<hi>Feſtus) ſunt quibus ſanctum eſt, qui quid ad<g ref="char:EOLhyphen"/>verſus eas fecerit,
+ſacer alicui Deorum ſit, cum familiâ pecuniâque. Laws made
+Sacred are ſuch as have a Clauſe in them, Ordering that whoever ſhall do
+any thing againſt them ſhall be Devoted to ſome one of the Gods, with his
+Family and Goods.</hi> That what I have affirmed of the Jews, is not by mere
+conjecture, I will pro<g ref="char:EOLhyphen"/>duce
+<pb n="8" facs="tcp:51288:6"/> one clear Teſtimony, which our Learned
+<hi>Selden</hi> quotes out of a Manuſcript, in his firſt Book <hi>De
+Synedriis.</hi> The Author is one <hi>Elias ben Moſes,</hi> by Sect a
+<hi>Carée</hi> or Scripturiſt, who ſpeaks of <hi>Benjamin ben
+Moſes</hi> thus; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is, <hi>Rabbi</hi> Benjamin ben
+Moſes <hi>ſaid, That ſuch as had committed any foul Crime, or
+tranſgreſs'd in any ſuch caſe as might not be puniſhed as the Law
+required, in time of Captivity, was to repent and make his Submiſſion, with
+a promiſe of A<g ref="char:EOLhyphen"/>mendment. But if he ſhould refuſe to promiſe Obedience
+to the Divine Laws, we were to Ana<g ref="char:EOLhyphen"/>thematize and Excommuicate him, as it is
+writ<g ref="char:EOLhyphen"/>ten,</hi> (Ezra 10.8.) <hi>His goods ſhall be Anathe<g ref="char:EOLhyphen"/>matiz'd, and
+himſelf Excommunicated from the Cahal,</hi> or <hi>Eccleſia.</hi> Which
+Text was not un<g ref="char:EOLhyphen"/>derſtood by our Tranſlators, nor by the Lear<g ref="char:EOLhyphen"/>ned
+<hi>Grotius</hi> himſelf, who is in the ſame errour with them. And that
+this was put in practice by the Jews upon the Primitive Chriſtians, I
+authentically prove by the Authority of St. <hi>Ju<g ref="char:EOLhyphen"/>ſtin Martyr</hi> in his
+incomparable Dialogue with <hi>Tryphon</hi> the Jew. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+(ſaith he) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:51288:6"/> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. that is; <hi>And ſtill
+you ſet at nought ſuch as confide in him, and in the <g ref="char:V">Ʋ</g>niverſal and
+Soveraign Crea<g ref="char:EOLhyphen"/>tour that ſent him, and do what you are able to expoſe them;
+while you curſe in your Synagogues thoſe that truſt in Chriſt. For you
+have not li<g ref="char:EOLhyphen"/>cenſe your ſelves</hi> (mark) <hi>to become our Murderers,
+becauſe of the preſent Powers: though as oft as you could, you have not
+been ſparing in that too.</hi> This much I think is more than ſufficient to
+evince the perfect conſent there was betwixt the Chriſtians and other
+parties of Jews, in their Civil, or (if you will) Eccleſiaſtick
+Po<g ref="char:EOLhyphen"/>litie.</p>
+            <p>But becauſe I know it will ſtill ſeem ſtrange to moſt,
+whatever the <hi>Judaick</hi> Politie was, that the Chriſtian
+<hi>Eccleſiae</hi> ſhould be accounted Popular, our Epiſcopiſts holding
+them to have been a kinde of little Monarchies, and the Presbyterians
+Ariſtocracies, I'll ſubjoyn a word or two of undeniable proof. Beſides
+that, the Bleſſed Apoſtles, and the Holy Men of the Apoſtolick Age, St.
+<hi>Clement,</hi> St. <hi>Polycarp,</hi> and
+<pb n="10" facs="tcp:51288:7"/> St. <hi>Ignatius</hi> direct their Letters of
+Inſtructions, for the moſt part, neither to one ſingle per<g ref="char:EOLhyphen"/>ſon, nor yet
+to a ſtinted number of people, but to whole <hi>Conventions:</hi> St.
+<hi>Paul</hi> in his firſt to the <hi>Corinthians,</hi> chap. 5. expreſsly
+charges them all <hi>in full Synagogue,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith he)
+to deliver the inceſtuous perſon to Satan for his Correction, without once
+mentioning the Clergy-man, or his Keys. Nay, (which is yet more) when the whole
+Colledge of Apo<g ref="char:EOLhyphen"/>ſtles were congregated at <hi>Hieruſalem, (Act.</hi> 15.)
+to conſider the debates at <hi>Antioch</hi> about the <hi>Moſaick</hi>
+Rituals, they preſume not to write in<g ref="char:EOLhyphen"/>fallible Letters by their own
+Authority, but regularly convene the People, and then make their ſeveral
+Harangues to them. And (<hi>v.</hi> 22.) the Apoſtles, Presbyters, and the
+whole <hi>Eccle<g ref="char:EOLhyphen"/>ſia,</hi> or <hi>Convention,</hi> paſs an order for the
+draw<g ref="char:EOLhyphen"/>ing up of their ſenſe into the form of an Epi<g ref="char:EOLhyphen"/>ſtle, which runs thus,
+(<hi>v.</hi> 23.) <hi>The Apoſtles, Elders and Brethren,</hi> &amp;c. And
+(<hi>v.</hi> 25.) its Authentickneſs is expreſſed thus,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We thought fit in full Conven<g ref="char:EOLhyphen"/>tion,</hi> &amp;c. And
+in fine, (<hi>v.</hi> 28.) <hi>It ſeemed good to the Holy Ghoſt and to
+us.</hi> By this may be ſeen, that in thoſe times the Holy Ghoſt was not
+the Clergies peculiar, as it hath been
+<pb n="11" facs="tcp:51288:7"/> thought ſince, eſpecially by thoſe of
+<hi>Simon</hi>'s trade. I'll adde the teſtimony of <hi>Ignatius,</hi> in his
+undoubted Epiſtle to the <hi>Philadelphians,</hi> becauſe he is commonly
+thought a zealous Pa<g ref="char:EOLhyphen"/>tron of the Clergie Intereſt. He there per<g ref="char:EOLhyphen"/>ſwades the
+<hi>Convention</hi> to elect a Deacon for their Legate, to make a Viſit to
+the <hi>Con<g ref="char:EOLhyphen"/>vention</hi> at <hi>Antioch,</hi> to which he had belonged, in
+theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>It be<g ref="char:EOLhyphen"/>comes you as a Convention of
+God, to elect a Deacon to go as a Legate for God.</hi> And then addes,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. that is, <hi>It is no great matter, if you are but
+willing to do ſo much for God, ſince your Neighbouring Conventions have
+ſent ſome of them Biſhops, others Presbyters and Deacons.</hi> But if
+none of this had been ſaid, it would be more than plain to every
+unbyaſſed Reader of this good mans Epiſtles, that the Chriſtian Politie
+was then rather faulty on the Popular ſide than otherwiſe; ſince ſo
+many <hi>Conventions</hi> of Pious and Holy Men had ſo great need to be
+inſtructed in their Duty of Subjection to their Biſhops and Presbyteries,
+which, it ſhould ſeem, in thoſe good times was
+<pb n="12" facs="tcp:51288:8"/> almoſt wholly neglected: it being, as the
+an<g ref="char:EOLhyphen"/>tient Commentary upon the Epiſtle to the <hi>E<g ref="char:EOLhyphen"/>pheſians</hi> (believed
+to be St. <hi>Ambroſe</hi>'s) informs us, <hi>Omnibus inter initia
+conceſſum &amp; Evange<g ref="char:EOLhyphen"/>lizare &amp; Baptizare, &amp; Scripturas in
+Eccleſiâ explanare. Allowable for all Men at firſt to Preach,
+Baptize, and Expound the Scriptures in the Convention.</hi> All which
+<hi>Tertullian,</hi> no mean Authour in God's Church, aſſerts <hi>(in
+Exhortat. ad <g ref="char:V">Ʋ</g>xor.)</hi> to be lawful ſtill, as to any thing of Divine
+Right. <hi>Nonne &amp; Laici Sacerdotes ſumus? Scriptum eſt, Reges quoque
+nos &amp; Sa<g ref="char:EOLhyphen"/>cerdotes Deo &amp; Patri ſuo fecit. Differentiam inter Ordinem
+&amp; Plebem conſtituit Eccleſiae Au<g ref="char:EOLhyphen"/>ctoritas, &amp; honor per
+conſeſſum ſanctificatus. Ideò ubi Eccleſiaſtici Ordinis non
+eſt conſeſſus, &amp; offers &amp; tingis, &amp; Sacerdos es tibi
+ſolus. Sed ubi tres, Eccleſia eſt, licet Laica.</hi> That is, <hi>Are not
+we that are Laymen Prieſts too? It is writ<g ref="char:EOLhyphen"/>ten, He hath made us Kings and
+Prieſts to God and his Father. The diſtinction betwixt the Bench of
+Presbyters and the Commoners, was made only for deference and reſpect to
+thoſe that preſide in the Convention. Wherefore where there is not a
+Convention-Bench thou thy ſelf giveſt the Euchariſt, Baptizeſt, and art
+thine own Prieſt. Yet where there are three, there is
+<pb n="13" facs="tcp:51288:8"/> a Convention, or Church, though but a Lay
+one.</hi>
+            </p>
+            <p>It is moſt probable that the Diſorders, that continually
+hapned in theſe Popular <hi>Churches,</hi> brought that Ariſtocracie, which
+St. <hi>Hierome</hi> in his Epiſtle to <hi>Euagrius,</hi> and after him the
+pious and learned Mr. <hi>Calvin</hi> and the Modern Presbyterians plead
+Preſcription for, as being much more antient than the preſent
+Epiſco<g ref="char:EOLhyphen"/>pacy. However, it could not keep long from devolving into the
+abſolute Power of Biſhops, who in proceſs of time were themſelves
+alſo ſwallow'd up by Patriarchs, and all at laſt by one
+<hi>Demogorgon</hi> Pope. In manner not unlike to this, the <hi>Roman</hi>
+Senate too (to compare great things with ſmall) by trampling upon the poor
+Plebeans, brought the Uſurper <hi>Caeſar,</hi> with a whole train of
+Succeſſors, upon their own heads. This ſecond Alteration is noted, and
+not without ſome ſeverity, by the antient Commentator upon the Firſt
+Epiſtle to <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> ſuppoſed to be the above-mentioned St.
+<hi>Ambroſe</hi> of <hi>Milan; Et Synagoga</hi> (ſaith he) <hi>&amp;
+
+poſtea Eccleſia Seniores habuit, quorum ſine con<g ref="char:EOLhyphen"/>ſilio nihil agebatur;
+quod quâ negligentiâ abſol<g ref="char:EOLhyphen"/>verit, neſcio; niſi fortè
+Doctorum deſidiâ, aut magis ſuperbiâ, dum ſoli volunt aliquid
+videri.</hi>
+               <pb n="14" facs="tcp:51288:9"/> That is, <hi>Both the Synagogue firſt</hi>
+(mark the pa<g ref="char:EOLhyphen"/>rity) <hi>and the Church after, had its Seniours, which by what
+neglect it hath come to be diſuſed, I know not; unleſs perchance through
+the ſloath of Prelates, or (as I rather think) their Ambi<g ref="char:EOLhyphen"/>tion to ſeem
+ſomebody alone.</hi>
+            </p>
+            <p>Much more I might ſay, if my purpoſe were to be large; but
+this much I could not omit, to ſhew by what ſteps the flock of Chriſt
+came at laſt to be a prey to the Avarice and Ambition of Biſhops, in the
+time of our un<g ref="char:EOLhyphen"/>happy Emperour <hi>Julian;</hi> in ſo much that they were
+tamely led, or violently driven, like beaſts by Graziers, to fulfil the
+brutiſh Paſſions and Intereſts of thoſe that managed them.</p>
+            <p>To return to our firſt Diſcourſe then, this diſcerning
+Prince ſoon ſaw their Deſigne was to erect in all parts of the Empire
+their own <hi>Moſaick</hi> or Eccleſiaſtick Politie, by themſelves
+Metamorphos'd from a Democracy into an Abſolute Tyranny: they having advanced
+ſo far already, as to procure of <hi>Conſtantine</hi> the ſole
+Juriſdiction over Chriſtians, and leave to Aſſemble themſelves at
+<hi>Nice,</hi> to divide the <hi>Roman</hi> Provinces among themſelves, and
+make a new Body of Laws, called <hi>Eccleſiaſtical Ca<g ref="char:EOLhyphen"/>nons,</hi> to the
+utter aboliſhing of the <hi>Roman</hi>
+               <pb n="15" facs="tcp:51288:9"/> Laws and Government, and the great
+Op<g ref="char:EOLhyphen"/>preſſion of thoſe Gentiles whom God had not yet enlightned with his
+Grace.</p>
+            <p>He ſaw moreover that let a Chriſtian be never ſo deeply
+Criminal, no profane hand muſt touch him; nor muſt he endure any o<g ref="char:EOLhyphen"/>ther
+Puniſhment, than <hi>Confeſſion and Penance;</hi> and that when once
+Abſolved, he was as in<g ref="char:EOLhyphen"/>nocent as the unborn Child. Which practice of theirs
+in proceſs of Time almoſt ruinated their Empire; For not reflecting, that
+as He<g ref="char:EOLhyphen"/>brews and a conquered People, they had (as was above ſhew'd) been
+deſpoiled of their <hi>Ju<g ref="char:EOLhyphen"/>ra Majeſtatis,</hi> and ſo of the uſe of the
+Sword in caſes of Blood, it never came into their minds to petition
+<hi>Conſtantine</hi> for the Reſtitu<g ref="char:EOLhyphen"/>tion of their antient Rights; but
+contempla<g ref="char:EOLhyphen"/>ting the perpetual practice of their Anceſtors, ſince
+Chriſtianity only, held on in their now long-accuſtom'd track of
+Anathematizing, ſup<g ref="char:EOLhyphen"/>poſing it to have been of the ſame Divine Right with
+their Religion; until at laſt, all men, good and bad, promiſcuouſly
+crowding into the Church, to be of the Religion in vogue, they found their
+Government become impracticable, and thereupon were forced to diſgorge what
+they could not concoct, and to
+<pb n="16" facs="tcp:51288:10"/> refund the cognizance of Capital and other
+ar<g ref="char:EOLhyphen"/>duous matters to the old Pagan Civil Laws and Magiſtracy, which by this
+means have been through God's Mercy continued down to our Times, where they
+begin again to grow ver<g ref="char:EOLhyphen"/>dant and to threaten Retaliation to the u<g ref="char:EOLhyphen"/>ſurping
+Prieſthood.</p>
+            <p>Adde to this, that he could ſee no Perſon nor Rank exempted
+from the dire <hi>Anathema</hi> Neither could he know, but that the Sove<g ref="char:EOLhyphen"/>raign
+Prince himſelf might upon a Pique, ſuch as the diſgrace of a potent
+Prelate, be on a ſudden Paganized, and next Aſſaſſinated even by them
+that had advanc'd him, ſince he ſo lately ſaw <hi>Conſtans</hi> armed
+againſt his own Brother <hi>Conſtantius,</hi> by the <hi>Roman</hi>
+Biſhop and the great <hi>Athanaſius,</hi> merely becauſe the latter had
+been outed his See, though as ſome ſay, for Treaſon, Sorcery, and Murder.
+And what indeed might he not juſtly fear, when he ſaw with what beſtial
+Rage the ſeveral Factions the Biſhops form'd themſelves among the people,
+by whom they were then Elected, did maſſacre each other. If a man, as
+imagine it were at <hi>Alexandria,</hi> had a Deſigne to ſup<g ref="char:EOLhyphen"/>plant a more
+potent and popular Competitor, no way ſo like to ruine him, as by giving out,
+
+<pb n="17" facs="tcp:51288:10"/> that he was not a right Chriſtian, but a
+cor<g ref="char:EOLhyphen"/>rupter of the true Faith, for that he uſed to read <hi>Origen</hi> and
+<hi>Plato,</hi> unſanctified Authors; and then ten to one but he was knockt
+on the head, either by the Rabble of the Town, or by ſholes of
+<hi>Anthropomorphite</hi> Monks, who commonly made what Biſhops they
+pleaſed, and for a long time made a prey of the <hi>E<g ref="char:EOLhyphen"/>gyptian</hi> Kingdome,
+as well as of later years of our own; but now God hath delivered us, by the
+means of a great and generous Prince, from this fort of <hi>Egyptian</hi>
+Vermine, who reſtored our Religion to its Primitive Candour and In<g ref="char:EOLhyphen"/>genuity,
+partly in his own Perſon, and partly by his Son and Daughter of Eternal
+Memory, who obliged their Spiritual as well as Tempo<g ref="char:EOLhyphen"/>ral Subjects to ſwear
+Fealty to them, as their Eccleſiaſtick (ſince there muſt be that
+diſtin<g ref="char:EOLhyphen"/>ction) as well as Civil Supremes.</p>
+            <p>But to return whence I diverted; I am per<g ref="char:EOLhyphen"/>ſwaded nothing
+offended him ſo much, as the vile Hypocriſie of the then Clergy, who
+beſides their coyning of contrary Creeds, in the Reigns of
+<hi>Conſtantine</hi> and <hi>Conſtantius,</hi> and modelling Religion by
+Court-Intrigues, ſeemed almoſt wholly to diſpenſe with Morality,
+placing Sanctimony not ſo much in a good Life, as in
+<pb n="18" facs="tcp:51288:11"/> the ſtrict Obſervance of the Rituals and
+the Symbolical Repreſentations of our Religion; ſuch as Baptiſm, the
+Euchariſt, Chriſm, but above all in ſubmitting to the Formalities of
+Confeſſion and Penance, upon which the worſt of offences were too
+eaſily remitted. What fleſh could bear to hear the Murderers of ones
+Father, Uncle, two Brothers, ſix Couſin<g ref="char:EOLhyphen"/>germans, harangued to Heaven in
+Pulpits, as very holy and good men, becauſe (forſooth) abſolved by their
+own Friends the Prieſts? And I the rather ſuſpect this to have been the
+principal Cauſe of his Tragical Apoſtacy, be<g ref="char:EOLhyphen"/>cauſe I do not finde his
+Satyr any where ſo truculent, as upon this occaſion. In the end of his
+<hi>Caeſars</hi> we finde his Uncle <hi>Conſtantine</hi> conducted by the
+Goddeſs <hi>Effeminacy</hi> to her Siſter <hi>Debauchery,</hi> where he
+findes his Son <hi>Con<g ref="char:EOLhyphen"/>ſtantius</hi> making Proclamation as followeth;
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Theſe words, though the Learned <hi>Loyolite
+Pe<g ref="char:EOLhyphen"/>tavius</hi> durſt not tranſlate to his Catholick Friends, I may to pious
+Proteſtants without the leaſt offence, ſince they derive not their
+<pb n="19" facs="tcp:51288:11"/> Religion from <hi>Conſtantine</hi>'s
+Biſhops, but from Chriſt immediately. <hi>Ho! whoſoever is either
+Sodomite, Murderer, Rogue or Villain, let him dread nothing but repair hither,
+with this water I'll make him clean in a trice: And if he ſhall happen</hi>
+(as humane Nature is frail) <hi>to repeat the ſame Crimes, if he will but
+thump his breaſt, and box his noddle, I'll warrant him as innocent as the
+Child unborn.</hi> This was the vengeance <hi>Julian</hi> took for the
+Barbarous Murders com<g ref="char:EOLhyphen"/>mitted upon almoſt his whole Family and Blood.</p>
+            <p>Theſe particulars I thought fit to recount, omitting many
+others, ſuch as the diſcounte<g ref="char:EOLhyphen"/>nancing and perſecuting men of honeſt and
+Primitive Principles, free Learning and ſound Philoſophy, becauſe above
+their Emulation; and paying devout Viſits to the Bones of dead Friars,
+calling them <hi>Holy Reliques,</hi> and ſuch<g ref="char:EOLhyphen"/>like. But that I may not be
+thought to ob<g ref="char:EOLhyphen"/>trude my own Sentiments for <hi>Julian</hi>'s, I will adventure
+to Tranſlate an Epiſtle of his to the Citizens of <hi>Bostra,</hi> who had
+been in ſome diſ<g ref="char:EOLhyphen"/>orders, by reaſon, as it ſhould ſeem, of a
+Toleration allow'd by <hi>Julian</hi> to the yet un<g ref="char:EOLhyphen"/>converted Heathens of that
+Town.</p>
+            <div type="letter">
+               <pb n="20" facs="tcp:51288:12"/>
+               <head>
+                  <hi>JULIAN</hi> to the <hi>BOSTRENS.</hi>
+               </head>
+               <p>I Thought verily the <hi>Galilaean</hi> Prelates would have
+accounted themſelves better obliged by me, than they were by my
+Prede<g ref="char:EOLhyphen"/>ceſſour. Since in his time many of them Suf<g ref="char:EOLhyphen"/>fer'd Exile,
+Perſecution and Impriſonment; nay whole Corporations of them they term
+Hereticks, were put to the Sword: Inſomuch that at <hi>Samoſata, Cyzicum,
+Paphlagonia, Bi<g ref="char:EOLhyphen"/>thynia, Galatia</hi> and many other Countreys, whole Towns were
+laid level with the Earth. The clean contrary to which has been in my time. For
+ſuch as had been Exiled I called home, and to ſuch as had been
+Proſcrib'd, I reſtor'd their own entire. But to that pitch of beſtial
+Outrage are they arrived, that ſince they may not ſtill act the Tyrants,
+nor as men above the controul of <hi>Laws,</hi> perpetrate what they did
+formerly, not only upon us, that reverence the Gods, but upon one another too;
+they leave no ſtone unturn'd, and have the impudence to raiſe Tumults and
+Inſurre<g ref="char:EOLhyphen"/>ctions among the people; practiſing neither Piety to the Gods, nor
+Obedience to our Laws, though ſo gentle and humane to them.
+<pb n="21" facs="tcp:51288:12"/> Wherefore we will have none of them hal'd to
+our Altars, but contrariwiſe do hereby ſtreightly charge them, that if any
+of them ſhall hereafter of his free minde deſire to par<g ref="char:EOLhyphen"/>ticipate with us in
+our Religious Rites, that he firſt offer Expiatory Sacrifice, and propi<g ref="char:EOLhyphen"/>tiate
+the averting Deities. So far are we from being fond of their communion, that it
+cannot ſo much as once enter into us, that any per<g ref="char:EOLhyphen"/>ſons ſo impious as
+they, can be at all qualified to participate of our holy Sacrifices, before he
+hath purged his Minde by ſupplicating the Gods, and his Body by the uſual
+Purgations. To me it is plain that the People, by the ſe<g ref="char:EOLhyphen"/>duction of thoſe
+they call <hi>Clergie,</hi> do raiſe theſe ſtirs, and all becauſe they
+are reſtrained their former Exceſſes. For having once en<g ref="char:EOLhyphen"/>joy'd a Tyranny
+of their own, they cannot be contented with Impunity for their paſt Crimes,
+but ſtill thirſt for their former Domi<g ref="char:EOLhyphen"/>nation; and becauſe they may not
+play the Judges, nor make peoples <hi>Wills,</hi> and poſ<g ref="char:EOLhyphen"/>ſeſs
+themſelves of other mens Patrimonies, and ſo get all into their own
+clutches, they leave no baſe nor unlawful deſign unattempted; but as the
+Saying is, <hi>Pile fire upon fire;</hi> and are ſo daring as to adde to
+their former Villanies
+<pb n="22" facs="tcp:51288:13"/> freſh ones, much greater than them,
+enraging the people, to create Diſorders. Wherefore I thought fit by this
+publick Declaration to fore<g ref="char:EOLhyphen"/>warn all good people, that they tumultuate not with
+their <hi>Clergie,</hi> nor be perſwaded by them to take up ſtones, nor to
+oppoſe their Superiours. Let them congregate with them as long as they
+ſhall think good, and ſay what Prayers they ſhall appoint them, ſo it
+be for themſelves only. But if they ſhall go about to Preach them into
+Rebellion, let them give ear to them at their utmoſt peril. I the rather give
+this warning unto the good Citi<g ref="char:EOLhyphen"/>zens of <hi>Boſtra,</hi> becauſe Biſhop
+<hi>Titus</hi> and his <hi>Clergy,</hi> to purge themſelves, have impeach'd
+them; ſaying, That they had indeed done their utmoſt to qualifie them, but
+that they were ungovernable. I have therefore ſpeci<g ref="char:EOLhyphen"/>fied in this my
+Declaration the words the Biſhop had the face to inſert into his Defenſe;
+<hi>Though the Chriſtians</hi> (ſaith he) <hi>were not inferior to the</hi>
+Greeks <hi>in number, yet I did my beſt to pacifie them.</hi> Theſe are
+your Biſhops very words of you. Mark, I pray you, how he imputes your
+quietneſs to himſelf, not to you. You are, if he ſay true, reſtrained,
+not by your own good Inclinations, but by his per<g ref="char:EOLhyphen"/>ſwaſions.
+<pb n="23" facs="tcp:51288:13"/> Expel him your City as your com<g ref="char:EOLhyphen"/>mon
+Accuſer. You Lay-men live in peace one with another, and let none of you act
+either Oppoſition to the Government, or In<g ref="char:EOLhyphen"/>juſtice to your Neighbours.
+Neither do you, abuſed and miſtaken people, offer any wrong to thoſe that
+lawfully and truely ſerve the Gods according to antient Cuſtome; nor do
+you, the true Worſhippers of the Gods, either mo<g ref="char:EOLhyphen"/>leſt the Families or
+ravage the Goods of thoſe that are miſled through Simplicity and
+Igno<g ref="char:EOLhyphen"/>rance. Men ought to be brought over by Reaſon and Perſwaſion, and
+not by ill Uſage, Blows, or Stripes. I again and again ſtrictly charge all
+ſuch as are Followers of true Piety, no wiſe to injure, affront or abuſe
+the <hi>Galilaean</hi> Laity. For ſuch as act erroneouſly in greateſt
+matters, are rather objects of Commiſeration than Hatred. Now as Piety is the
+beſt of Goods, ſo is Impiety the worſt of Ills. And ſuch as
+relinquiſh the Immortal Gods for the Bones and Reliques of dead men, are
+ſuffici<g ref="char:EOLhyphen"/>ently puniſht by the exchange they make. We ever compaſſionate
+perſons involv'd in Cala<g ref="char:EOLhyphen"/>mities, as we congratulate thoſe whom the Gods
+have deliver'd.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dat.</hi> Antioch.
+<date>
+                        <hi>Aug.</hi> 1.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="epilogue">
+               <pb n="24" facs="tcp:51288:14"/>
+               <head>The Epilogue.</head>
+               <p>ALL pious Chriſtians will, I know, read the Im<g ref="char:EOLhyphen"/>pieties of this
+unfortunate Apoſtate and Enemy of our true Faith, with juſt and due
+abhorrence; but they will withal, I am perſwaded, admire to find the
+Execrable Plots and Villanous Intrigues of the <hi>Roman</hi>
+Eccleſiaſticks and their Dependents (not to charge one Old-man with the
+common blame) ſo long ſince either truely exemplified or at leaſt
+ſagaciouſly predicted, and that by a great Monarch of the greateſt Empire
+the Sun hath yet ſeen: And not only theſe, but the intemperate and feeble
+Paſſions alſo of the otherwiſe good men of our Times, who while they
+pretend to inſtruct us, do themſelves under the pre<g ref="char:EOLhyphen"/>text either of
+Government on the one hand, or of Conſcience on the other, ſo ſhamefully
+violate that grand and once indiſpenſable Precept of Charity, de<g ref="char:EOLhyphen"/>livered
+them and us by our Saviour Chriſt. As if the Conteſt were not ſo much who
+ſhould be moſt like to him, or moſt conformable to the Divine Pre<g ref="char:EOLhyphen"/>cepts
+delivered by him, as who hath moſt right to abuſe, Burleſque and expoſe
+the reſt; and that perſon were moſt happy, who could procure a Priviledge
+or Patent from God or Man for ſo doing. Let ſuch men read the Epiſtle
+above, and bluſh at the equal candour and impartial Charity of a Heathen, and
+for the future ſtudy to recover the Reputation of decay'd Chriſtia<g ref="char:EOLhyphen"/>nity by
+better cultivating its Eſſentials, Piety, Loyalty, Charity, Sobriety and
+mutual Forbearance. In fine, however Clergy differ in ſmaller points, ſuch
+as School Subtleties, Rituals, Juriſdiction over us, Humour or Intereſt,
+let not the honeſt Laity intermeddle, much leſs eſpouſe their Quarrels,
+unleſs they ſhall deſire them, as in times of Primitive and Impolitick
+Chriſtianity, to give their Suffrage among them.</p>
+            </div>
+            <div type="judgment">
+               <pb n="25" facs="tcp:51288:14"/>
+               <head>
+                  <hi>Irenicum Pag.</hi> 398. Repreſenting the Judg<g ref="char:EOLhyphen"/>ments of
+our firſt Reformers, concerning Ec<g ref="char:EOLhyphen"/>cleſiaſtick Politie.</head>
+               <p>SOon after were called together by the Kings ſpecial or<g ref="char:EOLhyphen"/>der,
+the former ſelect Aſſembly at <hi>Windſor</hi>-Caſtle, where met (as
+far as I can gueſs by the ſeveral Papers delivered in by every one of them
+ſingly, and ſubſcribed with their own hands, all which I have peruſed)
+theſe following perſons, <hi>Thomas</hi> Archbiſhop of <hi>Canterbury,
+Edward</hi> Archbiſhop of <hi>York,</hi> the Biſhop of <hi>Rocheſter,
+Edmund</hi> Biſhop of <hi>London, Robert</hi> Biſhop of
+<hi>Carliſle,</hi> Dr. <hi>George Day,</hi> Dr. <hi>Thomas Robertſon,</hi>
+Dr. <hi>J. Red<g ref="char:EOLhyphen"/>mayne,</hi> Dr. <hi>Edward Leighton,</hi> Dr. <hi>Simon
+Matthew,</hi> Dr. <hi>William Treſham,</hi> Dr. <hi>Richard Cozen,</hi> Dr.
+<hi>Edge<g ref="char:EOLhyphen"/>worth,</hi> Dr. <hi>Owen Oglethorp,</hi> Dr. <hi>Thyrliby.</hi>
+Theſe all gave in their ſeveral Reſolutions in Papers, to the Queſtions
+propounded, with their Names ſubſcribed, (a far more prudent way than the
+confuſion of verbal and tedious Diſputes) all whoſe judgments are
+accurately ſummed up, and ſet down by the Archbiſhop of
+<hi>Canter<g ref="char:EOLhyphen"/>bury</hi> himſelf. Their Reſolutions contain diſtinct
+An<g ref="char:EOLhyphen"/>ſwers to ſeveral ſorts of Queſtions propounded to them. The firſt
+ſet contained ſeveral Queſtions about the Maſs, about the
+Inſtituting, Receiving, Nature, Celebration of it; and whether in the Maſs
+it be convenient to uſe ſuch Speech as the people may underſtand; whether
+the whole were fit to be Tranſlated, or only ſome part of it; with
+ſeveral other Queſtions of the ſame nature. The ſecond ſet is more
+pertinent to our purpoſe, wherein are Seven<g ref="char:EOLhyphen"/>teen Queſtions propoſed to be
+reſolved; Ten of them be<g ref="char:EOLhyphen"/>long to the number of Sacraments, the other Seven
+con<g ref="char:EOLhyphen"/>cern Church-Government. The Queſtions are theſe.</p>
+               <p>
+                  <pb n="26" facs="tcp:51288:15"/>
+                  <hi>Q. 9.</hi> Whether the Apoſtles lacking
+a higher power, as in not having a Chriſtian King, among them, made
+Bi<g ref="char:EOLhyphen"/>ſhops by that neceſſity, or by Authority given them of God?</p>
+               <p n="10">
+                  <hi>10.</hi> Whether Biſhops or Prieſts were firſt;
+and if the Prieſts were firſt, then the Prieſt made the Biſhop?</p>
+               <p n="11">
+                  <hi>11.</hi> Whether a Biſhop hath Authority to make a
+Prieſt by the Scripture or no; and whether any other but only a Biſhop may
+make a Prieſt?</p>
+               <p n="12">
+                  <hi>12.</hi> Whether in the New Teſtament be required
+any Conſecration of any Biſhop and Prieſt, or only appoint<g ref="char:EOLhyphen"/>ing to the
+Office be ſufficient?</p>
+               <p n="13">
+                  <hi>13.</hi> Whether (if it fortuned a Prince Chriſten
+learn<g ref="char:EOLhyphen"/>ed, to Conquer certain Dominions of Infidels, having none but the
+Temporal Learned men with him) it be de<g ref="char:EOLhyphen"/>fended by Gods Laws, that he and they
+ſhould Preach and Teach the Word of God there or no, and alſo make and
+Conſtitute Prieſts or no?</p>
+               <p n="14">
+                  <hi>14.</hi> Whether it be forfended by Gods Law, that if
+it ſo fortuned that all the Biſhops and Prieſts were dead, and that the
+word of God ſhould be there unpreached, the Sacrament of Baptiſm and others
+unminiſtred, that the King of that Region ſhould make Biſhops and
+Prieſts to ſupply the ſame or no?</p>
+               <p n="16">
+                  <hi>16.</hi> Whether a Biſhop or a Prieſt may
+Excommunicate, and for what Crimes, and whether they only may Ex<g ref="char:EOLhyphen"/>communicate by
+Gods Law?</p>
+               <p>Theſe are the Queſtions, to which the Anſwers are
+ſeverally returned in diſtinct Papers, all of them bound together in a
+large Volume by Archbiſhop <hi>Cranmer,</hi> and every one ſubſcribed
+their Names, and ſome their Seals to the Papers delivered in. It would be too
+tedious a work to ſet down their ſeveral Opinions at large; only for the
+deſerved reverence all bear to the name and me<g ref="char:EOLhyphen"/>mory of that moſt worthy
+Prelate and glorious Martyr,
+<pb n="27" facs="tcp:51288:15"/> Archbiſhop <hi>Cranmer;</hi> I ſhall
+ſet down his Anſwer di<g ref="char:EOLhyphen"/>ſtinctly to every one of thoſe Queſtions, and
+the An<g ref="char:EOLhyphen"/>ſwers of ſome others to the more material Queſtions to our
+purpoſe.</p>
+               <p>
+                  <hi>To the Ninth Qu.</hi> All Chriſtian Princes have
+com<g ref="char:EOLhyphen"/>mitted unto them immediately of God, the whole cure of all their Subjects,
+as well concerning the adminiſtration of Gods word for the cure of Souls, as
+concerning the miniſtration of things Political, and civil governance.</p>
+               <p>And in both theſe Miniſtrations, they muſt have ſun<g ref="char:EOLhyphen"/>dry
+Ministers under them to ſupply that which is appoin<g ref="char:EOLhyphen"/>ted to their ſeveral
+Offices.</p>
+               <p>The Civil Ministers under the Kings Majesty in this Realm of
+<hi>England,</hi> be thoſe whom it ſhall pleaſe his Highneſs for the
+time to put in Authority under him; as for example, the Lord Chancellour, Lord
+Treaſurer, Lord great Maſter, Lord Privy Seal, Lord Admiral, Mayors,
+Sheriffs, <hi>&amp;c.</hi>
+               </p>
+               <p>The Miniſters of Gods word under his Majesty, be the
+Biſhops, Parſons, Vicars, and ſuch other Priests, as be appointed by his
+Highneſs to that Ministration; as for example, the Biſhop of
+<hi>Canterbury,</hi> the Biſhop of <hi>Dureſme,</hi> the Biſhop of
+<hi>Wincheſter,</hi> the Parſon of <hi>Wynwick, &amp;c.</hi>
+               </p>
+               <p>All the ſaid Officers and Ministers, as well of the one ſort
+as the other, be appointed, aſſigned, and elected in every place by the
+Laws and Orders of Kings and Princes.</p>
+               <p>In the admiſſion of many of theſe Officers, be divers
+comely Ceremonies and Solemnities uſed, which be not of neceſſity, but
+only for a good Order and ſeemly Faſhion. For if ſuch Offices and
+Miniſtrations were committed without ſuch Solemnity, they were
+never<g ref="char:EOLhyphen"/>theleſs truely committed.</p>
+               <p>
+                  <pb n="28" facs="tcp:51288:16"/>And there is no more promiſe of God, that
+Grace is given in the committing of the Eccleſiaſtical Office, than it is
+in the committing of the Civil. In the A<g ref="char:EOLhyphen"/>poſtles time, when there were no
+Chriſtian Princes by whoſe Authority Miniſters of Gods Word might be
+ap<g ref="char:EOLhyphen"/>pointed, nor Sins by the Sword corrected; there was no remedy then for the
+correction of Vice, or appoin<g ref="char:EOLhyphen"/>ting of Miniſters, but only the conſent of
+Chriſtian Multitude among themſelves, by an uniform Conſent, to follow
+the Advice and Perſwaſion of ſuch perſons, whom God had moſt endued
+with the Spirit of Wiſdom and Counſel. And at that time, foraſmuch as
+Chriſtian people <hi>(mark)</hi> had no Sword nor Governour among them, they
+were conſtrained of neceſſity to take ſuch Curates and Priests, as
+either they knew themſelves to be meet thereunto, or elſe as were commended
+unto them by others that were ſo replete with the Spirit of God, with ſuch
+knowledge in the profeſſion of Christ, ſuch wiſdom, ſuch
+converſation and counſel, that they ought even of very Conſcience to give
+credit unto them, and to except ſuch as by them were preſented. And ſo
+ſometimes the Apostles, and others unto whom God had given abun<g ref="char:EOLhyphen"/>dantly his
+Spirit, ſent or appointed Ministers of Gods word; ſometime the people did
+chooſe ſuch as they thought meet thereunto, and when they were appointed or
+ſent by the Apostles or others, the people of their own voluntary will with
+thanks did accept them; not for the Supremacy, Imperie or Dominion, that the
+Apostles had over them, to command as their Princes or Masters, but as good
+people <hi>(honeſtly ſaid)</hi> ready to obey the ad<g ref="char:EOLhyphen"/>vice of good
+Councellors, and to accept any thing that was neceſſary for their
+edification and benefit.</p>
+               <p>
+                  <hi>To Qu. 10.</hi> The Biſhops and Prieſts were at one
+time, and were not two things, but both one Office in the beginning of
+Chriſts Religion.</p>
+               <p n="11">
+                  <pb n="29" facs="tcp:51288:16"/>
+                  <hi>11.</hi> A Biſhop may make a Prieſt
+by the Scriptures, and ſo may Princes and Governours alſo, and that by the
+Authority of God committed them, and the People alſo by their Election. For
+as we read that Biſhops have done it, ſo Chriſtian Emperours and Princes
+have done it. And the People <hi>(mark this)</hi> before Chriſtian Princes
+were, commonly did elect their Biſhops and Prieſts.</p>
+               <p n="12">
+                  <hi>12.</hi> In the New-Teſtament, he that is appointed
+to be a Biſhop or a Prieſt, needeth no Conſecration by the Scripture; for
+Election or appointing thereto is ſuffi<g ref="char:EOLhyphen"/>cient.</p>
+               <p n="13">
+                  <hi>13.</hi> It is not againſt Gods Law, but contrary
+they ought in deed ſo to do; and there be Hiſtories that witneſs, that
+ſome Chriſtian Princes and other Lay<g ref="char:EOLhyphen"/>men unconſecrate have done the
+ſame.</p>
+               <p n="14">
+                  <hi>14.</hi> It is not forbidden by Gods Law.</p>
+               <p n="15">
+                  <hi>15.</hi> A Biſhop or a Prieſt, by the Scripture,
+is neither commanded nor forbidden to Excommunicate. But where the Laws of any
+Region give him Authority to Excommunicate, there they ought to uſe the
+ſame, in ſuch Crimes as the Laws have ſuch Authority in. And where the
+Laws of the Region forbid them, there they have no Authority at all. And they
+that be no Prieſts may alſo Excommunicate, if the Law allow thereunto.</p>
+               <p>Thus far that excellent perſon, in whoſe Judgment nothing is
+more clear, than his aſcribing the particular Form of Government in the
+Church to the determina<g ref="char:EOLhyphen"/>tion of the Supreme Magiſtrate. This Judgment of his
+is thus ſubſcribed by him with his own hand.</p>
+               <p>
+                  <hi>T. Cantuarienſ.</hi> This is mine Opinion and Sentence at
+this preſent, which I do not temerariouſly define, but do remit the
+judgment thereof wholly to your Majeſty.</p>
+               <p>
+                  <pb n="30" facs="tcp:51288:17"/>Which I have exactly tranſcribed out of the
+Origi<g ref="char:EOLhyphen"/>nal, and have obſerved generally the Form of Writing at that time
+uſed. In the ſame <hi>M. S.</hi> it appears, that the Biſhop of St.
+<hi>Aſaph, Thyrleby, Redman</hi> and <hi>Cox,</hi> were all of the ſame
+Opinion with the Archbiſhop, that at firſt Biſhops and Presbyters were
+the ſame; and the two later expreſsly cite the Opinion of <hi>Jerome</hi>
+with approbation. Thus we ſee by the Teſtimony chiefly of him, who was
+inſtrumental in our Reformation, that he owned not Epiſcopacy as a
+diſtinct Order from Presbytery of Divine Right; but only as a prudent
+Con<g ref="char:EOLhyphen"/>ſtitution of the Civil Magistrate, for the better Go<g ref="char:EOLhyphen"/>verning the
+Church.</p>
+               <p>
+                  <hi>Thus far the worthy Authour of</hi> Irenicum, <hi>to which I
+ſubſcribe and conclude.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
